@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @VitPuskajler
 
 ## 👀 Interests
-- **Backend Development**: Specializing in Python with Flask.
+- **Backend Development**: Specializing in Python with Flask and SQLite.
 - **Frontend Enhancement**: Integrating JavaScript to add interactivity to my web applications, such as *Workout Periodization*.
 
 ## 🌱 Current Focus
