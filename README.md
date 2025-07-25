@@ -9,7 +9,7 @@
 - **Skill Enhancement**: Deepening my knowledge of Python and SQL.
 
 ## 🤖 Professional Background
-- **ABAP Developer**: Currently working on data transformation projects, focusing on migrating legacy SAP systems to HANA, with extensive experience in table management.
+- **DevOps Enginner**: Currently working on automatization, monitoring, web scraping projects.
 
 ## 💞️ Collaboration
 - **Open to**: Collaborating on engaging and innovative projects.
